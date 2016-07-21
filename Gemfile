@@ -1,3 +1,3 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 gem 'rest-client', '~> 1.8.0'
 gemspec
